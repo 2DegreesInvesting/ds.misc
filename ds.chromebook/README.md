@@ -47,8 +47,6 @@ ChromeOS overview
 -   Files: Local (MyFiles) and remote (Google Drive).
 -   [Open & edit Office
     files](https://partnerdash.google.com/apps/simulator/chromebook#open-and-edit-office-files?l=en).
--   Using multiple accounts: From the same user or [Add an
-    account](https://partnerdash.google.com/apps/simulator/chromebook#add-an-account?l=en).
 
 ### Setup a remote computer with “unlimited” resources to work online
 
