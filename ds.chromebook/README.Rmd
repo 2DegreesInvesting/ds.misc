@@ -1,0 +1,39 @@
+---
+output: github_document
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## ds.chromebook
+
+Resilient data science from a chromebook.
+
+The goal of this meetup is to ...
+
+## Who is the audience?
+
+...
+
+## Why is this important?
+
+...
+
+## Objectives
+
+* ...
+
+## Demo
+
+### ...
+
+...
+
+## Resources
+
+* ...
+
