@@ -40,10 +40,10 @@ My chromebook:
 
 ChromeOS overview
 
+-   Apps: e.g. Text.
 -   [Get to know your
     keyboard](https://partnerdash.google.com/apps/simulator/chromebook#get-to-know-your-keyboard?l=en)
     (e.g. CAPS, right-click, del).
--   Apps: e.g. Files.
 -   Files: Local (MyFiles) and remote (Google Drive).
 -   [Open & edit Office
     files](https://partnerdash.google.com/apps/simulator/chromebook#open-and-edit-office-files?l=en).
