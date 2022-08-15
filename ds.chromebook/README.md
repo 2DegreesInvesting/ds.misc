@@ -1,7 +1,12 @@
 
-## Data science from a chromebook
+## Data science on a chromebook
 
 The goal of this meetup is to show you can work from a cheap chromebook.
+
+It’s inspired by the post [Data Science on a
+Chromebook](https://simplystatistics.org/posts/2017-08-29-data-science-on-a-chromebook/)
+(Jeff Leek, 2017) and by my urgent need for a computer when my main one
+broke down.
 
 ## Who is the audience?
 
@@ -9,9 +14,9 @@ Data scientists, including analysts and software developers.
 
 ## Why is this important?
 
-This meetup is important if you can’t afford an expensive powerful
-computer, or if your main computer broke and you need to get stuff done
-urgently.
+This meetup is particularly useful when you can’t access a powerful
+computer. It can save you money and help you recover from a computer
+catastrophe.
 
 ## Demo
 
