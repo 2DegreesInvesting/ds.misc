@@ -49,8 +49,16 @@ catastrophe.
     environment](https://chromeos.dev/en/linux/setup).
 -   [Sharing files to
     Linux](https://chromeos.dev/en/linux/setup#sharing-files-to-linux).
--   [Install Docker engine](https://docs.docker.com/engine/install/).
--   Setup Git and GitHub, e.g with `gh`
-    ([install](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt)).
--   Customize, e.g. install [oh-my-zsh](https://ohmyz.sh/#install) and
-    dotfiles ([watch how](https://youtu.be/BYtt2cXW4qg)).
+-   [Install Docker engine](https://docs.docker.com/engine/install/)
+    ([ds.docker](https://github.com/2degreesInvesting/ds.docker)).
+-   Use software via docker, e.g. RStudio via the
+    [rocker/verse](https://rocker-project.org/images/versioned/rstudio.html)
+    image.
+
+Personalize:
+
+-   Setup Git and SSH keys for GitHub. I ([install
+    `gh`](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt))
+    then login to GitHub with `gh auth login`.
+-   I install [oh-my-zsh](https://ohmyz.sh/#install) and my dotfiles
+    ([watch how](https://youtu.be/BYtt2cXW4qg)).
