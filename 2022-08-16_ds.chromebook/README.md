@@ -15,9 +15,9 @@ Data scientists, including analysts and software developers.
 
 **Why is this important?**
 
-This meetup is particularly useful when you can’t access a powerful
-computer. It can save you money, or help you recover from a computer
-catastrophe.
+This meetup is particularly useful if you lack a powerful computer at
+hand. It can save you from buying a computer more expensive than you
+need.
 
 **Objectives**
 
