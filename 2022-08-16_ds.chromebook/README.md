@@ -68,5 +68,5 @@ Personalize:
 
 ## Takeaway
 
--   Despite some limitations, you can do data science on a cheap
-    chromebook.
+-   You can do data science on a cheap chromebook.
+-   The limitations are relatively few – mainly when working offline.
