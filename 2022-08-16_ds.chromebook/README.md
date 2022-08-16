@@ -47,7 +47,7 @@ need.
 
 -   [Setup a Linux development
     environment](https://chromeos.dev/en/linux/setup).
--   [Sharing files to
+-   [Share files to
     Linux](https://chromeos.dev/en/linux/setup#sharing-files-to-linux).
 -   [Install Docker engine](https://docs.docker.com/engine/install/)
     ([ds.docker](https://github.com/2degreesInvesting/ds.docker)).
