@@ -57,7 +57,7 @@ catastrophe.
 
 Personalize:
 
--   Setup Git and SSH keys for GitHub. I [install
+-   Setup SSH keys to for GitHub. I [install
     `gh`](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt)
     then run `gh auth login`.
 -   Configure git. I install my .gitconfig along with other
@@ -65,3 +65,8 @@ Personalize:
     ([watch](https://youtu.be/BYtt2cXW4qg)).
 -   I also use [oh-my-zsh](https://ohmyz.sh/#install) and a few other
     programs.
+
+## Takeaway
+
+-   Despite some limitations, you can do data science on a cheap
+    chromebook.
