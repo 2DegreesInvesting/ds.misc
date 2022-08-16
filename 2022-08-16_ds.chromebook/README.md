@@ -52,5 +52,5 @@ catastrophe.
 -   [Install Docker engine](https://docs.docker.com/engine/install/).
 -   Setup Git and GitHub, e.g with `gh`
     ([install](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt)).
--   Customize, e.g. install ([oh-my-zsh](https://ohmyz.sh/#install)) and
-    dotfiles.
+-   Customize, e.g. install [oh-my-zsh](https://ohmyz.sh/#install) and
+    dotfiles ([watch how](https://youtu.be/BYtt2cXW4qg)).
