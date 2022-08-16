@@ -57,5 +57,5 @@ can save you money, or help you recover from a computer catastrophe.
 
 Personalize:
 
-* Setup Git and SSH keys for GitHub. I ([install `gh`](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt)) then login to GitHub with `gh auth login`.
-* I install [oh-my-zsh](https://ohmyz.sh/#install) and my dotfiles ([watch how](https://youtu.be/BYtt2cXW4qg)).
+* Setup Git and SSH keys for GitHub. I ([install `gh`](https://github.com/cli/cli/blob/trunk/docs/install_linux.md#debian-ubuntu-linux-raspberry-pi-os-apt)) then run `gh auth login`.
+* Introduce yourself to git. I install [oh-my-zsh](https://ohmyz.sh/#install) and [my dotfiles](https://github.com/maurolepore/dotfiles) ([watch](https://youtu.be/BYtt2cXW4qg)).
