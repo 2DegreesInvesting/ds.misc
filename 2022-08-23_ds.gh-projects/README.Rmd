@@ -1,0 +1,74 @@
+---
+output: github_document
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Project planning on GitHub
+
+The goal of this meetup is to show how to manage projects with GitHub.
+
+**Who is the audience?**
+
+Anyone who needs to manage a project, particularly if some aspect of it involves
+GitHub, including analysts, developers, and project managers.
+
+**Why is this important?**
+
+Most projects involving code use GitHub to kick off an idea, start a
+conversation, write some code, and track progress. You may manage projects with
+complex tools elsewhere, but GitHub now has great features for that, so why not
+**K**eep **I**t **S**uper **S**imple?
+
+**Objectives**
+
+* Manage a project from the perspective of a project manager.
+* Manage a project from the perspective of an analyst / developer.
+
+### Manage a project from the perspective of a project manager
+
+* Create a new GitHub project table, add work items, and basic metadata.
+
+```
+LIT 
+A database of small and medium-size companies in Lithuania
+
+litCode:
+Identify source of useful data.
+Identify useful variables to get.
+Write code to get data.
+
+litData:
+Distribute the data "as is".
+Split the data into tables about companies, products, and categories.
+Re-define categories.
+```
+
+* Switch views, and modify metadata by dragging items to done, WIP, and todo.
+
+* Add an new iteration field, group by it, and save the new view.
+
+* Create a new priority field, filter by it, and compare with group.
+
+* Add a linked-pull-requests field.
+
+## Manage a project from the perspective of an analyst / developer
+
+* Add a project to a repository.
+* Create a new issue.
+* Create a new pull request.
+* Merge a pull-request that closes an issue.
+
+## Takeaway
+
+* GitHub projects are user friendly, even if you don't write code.
+* If some work is on GitHub anyway, it makes sense to manage the project there.
+
+## Resources
+
+* [Planning and tracking with projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
