@@ -1,0 +1,58 @@
+---
+output: github_document
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Project manamegement with GitHub
+
+The goal of this meetup is to show how to manage projects with GitHub.
+
+**Who is the audience?**
+
+Anyone who needs to manage projects, particularly if some of the work
+happens on GitHub. This includes data scientists and their managers,
+such as analysts, software developers, interns, and project managers at
+2DII and beyond.
+
+**Why is this important?**
+
+Most data science projects involves GitHub issues and pull
+requests. GitHub projects integrate with them, so you can plan and track
+your work effectively.
+
+**Objectives**
+
+* Understand what are GitHub projects.
+* Setup a GitHub project.
+* Introduce best practices.
+
+## [Understand what are GitHub projects(https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+
+
+
+## [Setup a GitHub project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
+
+
+
+## [Introduce best practices](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects)
+
+
+
+
+
+
+## ...
+
+## Takeaway
+
+* ...
+
+## Resources
+
+* [Planning and tracking with projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
