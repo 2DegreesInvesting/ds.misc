@@ -19,12 +19,14 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 
 -   Manage a project from the perspective of a project manager.
 -   Manage a project from the perspective of an analyst / developer.
+-   Notice the status updates automatically and everything is
 
 ### Manage a project from the perspective of a project manager
 
 -   Create a new GitHub project table: “LIT – SMEs from Lithuania”.
--   Add work items from the existing repositories litCode and litData.
--   Add work items as draft issues. Set assignee, and milestone.
+-   Add work items from the [existing repositories litCode and
+    litData](https://github.com/orgs/an-org/repositories?q=lit&type=all&language=&sort=).
+-   Add a work item as draft issue. Set the assignee, and milestone.
 
 <!-- -->
 
@@ -45,9 +47,10 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 -   Merge a pull-request that closes an issue.
 -   Create an issue from the draft, change the status to “In progress”.
 
-## Everyone
+## Notice the status updates automatically and everything is
 
--   Watch the status update automatically.
+-   Notice the status has automatically updated, and everything is
+    linked.
 
 ## Takeaway
 
@@ -61,3 +64,7 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 -   [Video (2’)](https://www.youtube.com/watch?v=o1wuW24Nv4E).
 -   [Planning and tracking with
     Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
+
+## Thanks
+
+Thanks Mirja for motivating this meetup.
