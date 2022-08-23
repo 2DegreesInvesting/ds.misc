@@ -23,23 +23,34 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 
 ## As a project manager
 
--   Create a new GitHub project table: “LIT – SMEs from Lithuania”.
+-   On a GitHub organization, create a project table
+
+<!-- -->
+
+    LIT
+    A database of companies from Lithuania
+
 -   Add work items from the [existing repositories litCode and
     litData](https://github.com/orgs/an-org/repositories?q=lit&type=all&language=&sort=).
+
 -   Add a work item as draft issue. Set the assignee, and milestone.
 
 <!-- -->
 
-    * Re-define categories:
+      Re-define categories:
+      
       > User story (requirement): As an analyst I would like to have categories
       meaningful to 2DII (rather than to the data source) so that I can merge this
       dataset with other 2DII datasets.
 
 -   Switch views, and modify metadata by dragging the draft issue to
     “todo”.
+
 -   Group by milestone, sort by status, filter by assignee, and save a
     new view.
+
 -   Add a linked-pull-requests field.
+
 -   Add an new iteration field, group by it, and save the new view.
 
 ## As an analyst / developer
