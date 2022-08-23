@@ -19,9 +19,9 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 
 -   Manage a project from the perspective of a project manager.
 -   Manage a project from the perspective of an analyst / developer.
--   Notice the status updates automatically and everything is
+-   Watch updates and track linked work.
 
-### Manage a project from the perspective of a project manager
+## As a project manager
 
 -   Create a new GitHub project table: “LIT – SMEs from Lithuania”.
 -   Add work items from the [existing repositories litCode and
@@ -42,17 +42,17 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 -   Add a linked-pull-requests field.
 -   Add an new iteration field, group by it, and save the new view.
 
-## Manage a project from the perspective of an analyst / developer
+## As an analyst / developer
 
 -   Merge a pull-request that closes an issue.
 -   Create an issue from the draft, change the status to “In progress”.
 
-## Notice the status updates automatically and everything is
+## Watch updates and track linked work
 
 -   Notice the status has automatically updated, and everything is
     linked.
 
-## Takeaway
+## Takeaways
 
 -   GitHub projects are user friendly, even if you don’t write code.
 -   If some work is on GitHub anyway, it makes sense to manage the
@@ -61,7 +61,6 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 
 ## Resources
 
--   [Video (2’)](https://www.youtube.com/watch?v=o1wuW24Nv4E).
 -   [Planning and tracking with
     Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
 
