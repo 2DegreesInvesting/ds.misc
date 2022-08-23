@@ -25,11 +25,6 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 
 -   On a GitHub organization, create a project table
 
-<!-- -->
-
-    LIT
-    A database of companies from Lithuania
-
 -   Add work items from the [existing repositories litCode and
     litData](https://github.com/orgs/an-org/repositories?q=lit&type=all&language=&sort=).
 
@@ -39,7 +34,9 @@ for that. Why not **K**eep **I**t **S**uper **S**imple?
 
       Re-define categories:
       
-      > User story (requirement): As an analyst I would like to have categories
+      User story (requirement): 
+      
+      > As an analyst I would like to have categories
       meaningful to 2DII (rather than to the data source) so that I can merge this
       dataset with other 2DII datasets.
 
