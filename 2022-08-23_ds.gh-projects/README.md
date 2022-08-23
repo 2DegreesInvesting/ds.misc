@@ -1,5 +1,5 @@
 
-# Project planning on GitHub
+# Project management on GitHub
 
 The goal of this meetup is to show how to manage projects with GitHub.
 
@@ -13,7 +13,7 @@ involves GitHub, including analysts, developers, and project managers.
 Most projects involving code use GitHub to kick off an idea, start a
 conversation, write some code, and track progress. You may manage
 projects with complex tools elsewhere, but GitHub now has great features
-for that, so why not **K**eep **I**t **S**uper **S**imple?
+for that. Why not **K**eep **I**t **S**uper **S**imple?
 
 **Objectives**
 
@@ -22,47 +22,42 @@ for that, so why not **K**eep **I**t **S**uper **S**imple?
 
 ### Manage a project from the perspective of a project manager
 
--   Create a new GitHub project table, add work items, and basic
-    metadata.
+-   Create a new GitHub project table: “LIT – SMEs from Lithuania”.
+-   Add work items from the existing repositories litCode and litData.
+-   Add work items as draft issues. Set assignee, and milestone.
 
 <!-- -->
 
-    LIT 
-    A database of small and medium-size companies in Lithuania
+    * Re-define categories:
+      > User story (requirement): As an analyst I would like to have categories
+      meaningful to 2DII (rather than to the data source) so that I can merge this
+      dataset with other 2DII datasets.
 
-    litCode:
-    Identify source of useful data.
-    Identify useful variables to get.
-    Write code to get data.
-
-    litData:
-    Distribute the data "as is".
-    Split the data into tables about companies, products, and categories.
-    Re-define categories.
-
--   Switch views, and modify metadata by dragging items to done, WIP,
-    and todo.
-
--   Add an new iteration field, group by it, and save the new view.
-
--   Create a new priority field, filter by it, and compare with group.
-
+-   Switch views, and modify metadata by dragging the draft issue to
+    “todo”.
+-   Group by milestone, sort by status, filter by assignee, and save a
+    new view.
 -   Add a linked-pull-requests field.
+-   Add an new iteration field, group by it, and save the new view.
 
 ## Manage a project from the perspective of an analyst / developer
 
--   Add a project to a repository.
--   Create a new issue.
--   Create a new pull request.
 -   Merge a pull-request that closes an issue.
+-   Create an issue from the draft, change the status to “In progress”.
+
+## Everyone
+
+-   Watch the status update automatically.
 
 ## Takeaway
 
 -   GitHub projects are user friendly, even if you don’t write code.
 -   If some work is on GitHub anyway, it makes sense to manage the
     project there.
+-   Project views update automatically, and everything stays linked.
 
 ## Resources
 
+-   [Video (2’)](https://www.youtube.com/watch?v=o1wuW24Nv4E).
 -   [Planning and tracking with
-    projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
+    Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
