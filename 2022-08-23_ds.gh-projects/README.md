@@ -32,28 +32,26 @@ Backlog:
 -   Add draft issue “Polish docs”, set the assignees.
 -   Switch views, and modify metadata by dragging the draft issue to
     “todo”.
--   Rename the view to “Backlog” and save the changes.
+-   Rename the view to “Backlog”.
 
-Mauro’s progress:
+Open issues by iteration:
 
 -   Add the hidden field milestone and linked pull requests.
+-   Group by milestone.
+-   Filter state type `is:open is:issue`.
+-   Add missing milestone metadata.
 -   Create a new field “Iteration”.
--   Group by milestone, and filter by assignees
--   Save as a new view.
-
-Add missing metadata:
-
--   Set the status and milestone for future work items.
+-   Add missing iteration metadata.
+-   Save changes to new view “Open issues by iteration”.
 
 ## As an analyst / developer
 
--   Create an issue from the draft, change the status to “In progress”.
--   Merge a pull-request that closes an issue.
+-   Create an issue from the draft, add metadata.
+-   Merge the open pull-request
 
 ## Watch updates and track linked work
 
--   Notice the status has automatically updated, and everything is
-    linked.
+-   Watch updates and track linked work.
 
 ## Takeaways
 
